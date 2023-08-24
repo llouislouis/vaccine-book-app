@@ -16,7 +16,7 @@ div.cardimg {
   position: relative;
 }
 
-div.cardcontent h2 {
+.cardcontent h2 {
   color: black;
 }
 
