@@ -7,8 +7,8 @@ export default function Banner() {
             <div className={styles.banner}>
                 <Image src={"/img/coverHomePage.jpg"} alt="cover" fill={true} objectFit="cover" />
                 <div className={styles.bannerText}>
-                    <h1>Vaccine</h1>
-                    <h3>Choose your appointment</h3>
+                <h1>Welcome to Our Vaccination Center</h1>
+                <h2>Choose Your Vaccination Appointment</h2>
                 </div>
             </div>
         )
